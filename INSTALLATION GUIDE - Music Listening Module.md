@@ -23,6 +23,8 @@ Converts audio files into HTF (Harmonic-Temporal-Form) sensory objects - mathema
 
 ### **1. Clone the Repository**
 
+You'll want to use this repo: https://github.com/just-cameron/AI-Music-Listening-Experience music-listening
+
 ```bash
 cd /data/apps/  # or wherever you want to install
 git clone https://github.com/just-cameron/AI-Music-Listening-Experience music-listening
